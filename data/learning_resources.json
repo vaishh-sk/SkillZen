@@ -1,0 +1,306 @@
+
+{
+    "Python": {
+        "description": "Python is a versatile programming language widely used in backend development, automation, data science and AI.",
+        "importance": "Python is a core skill for backend developers and is commonly used to build APIs and scalable applications.",
+        "topics": [
+            "Python fundamentals and data types",
+            "Functions and modules",
+            "Object-oriented programming",
+            "Exception handling",
+            "Iterators and generators",
+            "Decorators and context managers",
+            "File handling",
+            "Virtual environments and packages"
+        ],
+        "resources": [
+            {
+                "name": "Python Official Tutorial",
+                "url": "https://docs.python.org/3/tutorial/"
+            },
+            {
+                "name": "Real Python",
+                "url": "https://realpython.com/"
+            }
+        ],
+        "practice": [
+            "Build a command-line expense tracker.",
+            "Create a Python application that reads and processes CSV files.",
+            "Build a small project using OOP and exception handling."
+        ]
+    },
+    "SQL": {
+        "description": "SQL is a language used to store, retrieve and manipulate data in relational databases.",
+        "importance": "Backend applications use SQL to manage user accounts, application data and database operations.",
+        "topics": [
+            "Database fundamentals",
+            "Tables, rows and columns",
+            "SELECT, INSERT, UPDATE and DELETE",
+            "WHERE, ORDER BY and GROUP BY",
+            "Aggregate functions",
+            "Joins and subqueries",
+            "Primary and foreign keys",
+            "Indexes and transactions"
+        ],
+        "resources": [
+            {
+                "name": "PostgreSQL Tutorial",
+                "url": "https://www.postgresql.org/docs/current/tutorial.html"
+            },
+            {
+                "name": "SQLBolt",
+                "url": "https://sqlbolt.com/"
+            }
+        ],
+        "practice": [
+            "Write queries to retrieve and filter student records.",
+            "Create a database for an online bookstore.",
+            "Solve SQL exercises involving joins and subqueries."
+        ]
+    },
+    "Flask": {
+        "description": "Flask is a lightweight Python web framework used to build web applications and APIs.",
+        "importance": "Helps Python developers create backend services and REST APIs.",
+        "topics": [
+            "Flask installation and setup",
+            "Application structure",
+            "Routing",
+            "HTTP methods",
+            "Templates",
+            "REST APIs",
+            "Request and response handling",
+            "Error handling and testing"
+        ],
+        "resources": [
+            {
+                "name": "Flask Official Documentation",
+                "url": "https://flask.palletsprojects.com/"
+            }
+        ],
+        "practice": [
+            "Build a basic Flask application.",
+            "Create a REST API with multiple endpoints.",
+            "Build a CRUD application connected to a database."
+        ]
+    },
+    "Django": {
+        "description": "Django is a high-level Python web framework designed for building secure and maintainable web applications.",
+        "importance": "Provides built-in tools for authentication, database operations and application development.",
+        "topics": [
+            "Django installation and project setup",
+            "MVT architecture",
+            "URL routing and views",
+            "Models and ORM",
+            "Django templates",
+            "Forms and validation",
+            "Authentication and authorization",
+            "Django REST Framework basics"
+        ],
+        "resources": [
+            {
+                "name": "Django Official Documentation",
+                "url": "https://docs.djangoproject.com/en/stable/"
+            }
+        ],
+        "practice": [
+            "Build a student management application.",
+            "Create user registration and login functionality.",
+            "Build a CRUD application using Django ORM."
+        ]
+    },
+    "FastAPI": {
+        "description": "FastAPI is a modern Python framework for building high-performance APIs with automatic documentation.",
+        "importance": "Useful for developing modern backend services and integrating Python applications with frontend systems.",
+        "topics": [
+            "FastAPI installation",
+            "Path and query parameters",
+            "Request and response models",
+            "Pydantic validation",
+            "HTTP methods and status codes",
+            "Dependency injection",
+            "Database integration",
+            "Authentication and security"
+        ],
+        "resources": [
+            {
+                "name": "FastAPI Official Documentation",
+                "url": "https://fastapi.tiangolo.com/"
+            }
+        ],
+        "practice": [
+            "Build a basic FastAPI application.",
+            "Create CRUD endpoints for a task manager.",
+            "Connect an API to a relational database."
+        ]
+    },
+    "REST API": {
+        "description": "REST APIs allow different software applications to communicate through standardized HTTP requests and responses.",
+        "importance": "Backend developers use REST APIs to connect frontend applications, databases and external services.",
+        "topics": [
+            "Client-server architecture",
+            "REST principles",
+            "HTTP methods",
+            "HTTP status codes",
+            "Request and response formats",
+            "JSON",
+            "API routing and endpoints",
+            "Authentication and authorization",
+            "API testing and documentation"
+        ],
+        "resources": [
+            {
+                "name": "MDN HTTP Documentation",
+                "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP"
+            },
+            {
+                "name": "REST API Tutorial",
+                "url": "https://restfulapi.net/"
+            }
+        ],
+        "practice": [
+            "Design REST endpoints for a library application.",
+            "Test API requests using an API testing tool.",
+            "Build a CRUD REST API using Flask or FastAPI."
+        ]
+    },
+    "Git": {
+        "description": "Git is a distributed version control system used to track changes in source code.",
+        "importance": "Helps developers maintain code history, work with branches and collaborate on software projects.",
+        "topics": [
+            "Version control fundamentals",
+            "Git installation and configuration",
+            "Repositories",
+            "Git add, commit and status",
+            "Branches and merging",
+            "Merge conflicts",
+            "Git log and diff",
+            "Reset and revert"
+        ],
+        "resources": [
+            {
+                "name": "Git Official Documentation",
+                "url": "https://git-scm.com/doc"
+            },
+            {
+                "name": "Pro Git Book",
+                "url": "https://git-scm.com/book/en/v2"
+            }
+        ],
+        "practice": [
+            "Create a local Git repository.",
+            "Practice branching and merging.",
+            "Create and resolve a merge conflict."
+        ]
+    },
+    "GitHub": {
+        "description": "GitHub is a platform for hosting Git repositories and collaborating on software development.",
+        "importance": "Helps developers showcase projects, collaborate with teams and maintain professional code repositories.",
+        "topics": [
+            "Creating repositories",
+            "Remote repositories",
+            "Push and pull",
+            "Cloning repositories",
+            "Pull requests",
+            "Issues and project boards",
+            "README files",
+            "Collaboration workflows"
+        ],
+        "resources": [
+            {
+                "name": "GitHub Skills",
+                "url": "https://skills.github.com/"
+            },
+            {
+                "name": "GitHub Documentation",
+                "url": "https://docs.github.com/"
+            }
+        ],
+        "practice": [
+            "Publish a Python project on GitHub.",
+            "Write a professional project README.",
+            "Practice creating branches and pull requests."
+        ]
+    },
+    "Linux": {
+        "description": "Linux is an open-source operating system widely used for servers and software development environments.",
+        "importance": "Backend developers frequently use Linux environments for application deployment, server management and automation.",
+        "topics": [
+            "Linux fundamentals",
+            "File system navigation",
+            "File and directory commands",
+            "File permissions",
+            "Users and groups",
+            "Process management",
+            "Shell scripting basics",
+            "Environment variables",
+            "Networking commands"
+        ],
+        "resources": [
+            {
+                "name": "Linux Journey",
+                "url": "https://linuxjourney.com/"
+            },
+            {
+                "name": "Linux Documentation",
+                "url": "https://www.kernel.org/doc/html/latest/"
+            }
+        ],
+        "practice": [
+            "Practice navigating directories using terminal commands.",
+            "Create and manage files using shell commands.",
+            "Write a basic shell script to automate a repetitive task."
+        ]
+    },
+    "Docker": {
+        "description": "Docker is a platform used to package applications and their dependencies into containers.",
+        "importance": "Helps developers build, deploy and run applications consistently across different environments.",
+        "topics": [
+            "Introduction to containers",
+            "Docker architecture",
+            "Images and containers",
+            "Dockerfiles",
+            "Docker Compose",
+            "Container networking",
+            "Volumes and persistent storage"
+        ],
+        "resources": [
+            {
+                "name": "Docker Official Documentation",
+                "url": "https://docs.docker.com/"
+            }
+        ],
+        "practice": [
+            "Understand the difference between images and containers.",
+            "Containerize a simple Python application.",
+            "Run a multi-container application using Docker Compose."
+        ]
+    },
+    "AWS": {
+        "description": "AWS is a cloud computing platform offering services for hosting, storage, databases and application deployment.",
+        "importance": "Helps developers deploy and manage scalable applications using cloud infrastructure.",
+        "topics": [
+            "Cloud computing fundamentals",
+            "AWS global infrastructure",
+            "EC2 basics",
+            "S3 storage",
+            "IAM fundamentals",
+            "VPC basics",
+            "Cloud deployment concepts"
+        ],
+        "resources": [
+            {
+                "name": "AWS Skill Builder",
+                "url": "https://skillbuilder.aws/"
+            },
+            {
+                "name": "AWS Documentation",
+                "url": "https://docs.aws.amazon.com/"
+            }
+        ],
+        "practice": [
+            "Learn the purpose of EC2 and S3.",
+            "Explore basic cloud architecture concepts.",
+            "Study how a web application can be deployed on AWS."
+        ]
+    }
+}

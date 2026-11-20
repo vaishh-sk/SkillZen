@@ -1,0 +1,191 @@
+
+{
+    "programming_languages": [
+        {
+            "name": "Python",
+            "aliases": []
+        },
+        {
+            "name": "Java",
+            "aliases": []
+        },
+        {
+            "name": "C",
+            "aliases": []
+        },
+        {
+            "name": "C++",
+            "aliases": []
+        },
+        {
+            "name": "JavaScript",
+            "aliases": ["JS"]
+        },
+        {
+            "name": "TypeScript",
+            "aliases": ["TS"]
+        },
+        {
+            "name": "PHP",
+            "aliases": []
+        },
+        {
+            "name": "Ruby",
+            "aliases": []
+        },
+        {
+            "name": "Go",
+            "aliases": ["Golang"]
+        },
+        {
+            "name": "Rust",
+            "aliases": []
+        }
+    ],
+    "web_development": [
+        {
+            "name": "HTML",
+            "aliases": ["HTML5"]
+        },
+        {
+            "name": "CSS",
+            "aliases": ["CSS3"]
+        },
+        {
+            "name": "React",
+            "aliases": ["React.js"]
+        },
+        {
+            "name": "Angular",
+            "aliases": ["AngularJS"]
+        },
+        {
+            "name": "Vue.js",
+            "aliases": ["Vue"]
+        },
+        {
+            "name": "Flask",
+            "aliases": []
+        },
+        {
+            "name": "Django",
+            "aliases": []
+        },
+        {
+            "name": "FastAPI",
+            "aliases": []
+        },
+        {
+            "name": "Node.js",
+            "aliases": ["Node"]
+        },
+        {
+            "name": "Express.js",
+            "aliases": ["Express"]
+        },
+        {
+            "name": "REST API",
+            "aliases": ["REST APIs", "RESTful API", "RESTful APIs"]
+        }
+    ],
+    "databases": [
+        {
+            "name": "SQL",
+            "aliases": []
+        },
+        {
+            "name": "MySQL",
+            "aliases": []
+        },
+        {
+            "name": "PostgreSQL",
+            "aliases": ["Postgres"]
+        },
+        {
+            "name": "MongoDB",
+            "aliases": []
+        },
+        {
+            "name": "SQLite",
+            "aliases": []
+        },
+        {
+            "name": "Redis",
+            "aliases": []
+        }
+    ],
+    "tools_and_platforms": [
+        {
+            "name": "Git",
+            "aliases": []
+        },
+        {
+            "name": "GitHub",
+            "aliases": []
+        },
+        {
+            "name": "Docker",
+            "aliases": []
+        },
+        {
+            "name": "Kubernetes",
+            "aliases": ["K8s"]
+        },
+        {
+            "name": "AWS",
+            "aliases": ["Amazon Web Services"]
+        },
+        {
+            "name": "Azure",
+            "aliases": ["Microsoft Azure"]
+        },
+        {
+            "name": "Linux",
+            "aliases": []
+        }
+    ],
+    "core_concepts": [
+        {
+            "name": "Data Structures and Algorithms",
+            "aliases": ["DSA", "Data Structures & Algorithms"]
+        },
+        {
+            "name": "Object-Oriented Programming",
+            "aliases": ["OOP", "Object Oriented Programming"]
+        },
+        {
+            "name": "DBMS",
+            "aliases": ["Database Management System", "Database Management Systems"]
+        },
+        {
+            "name": "Operating Systems",
+            "aliases": ["OS"]
+        },
+        {
+            "name": "Computer Networks",
+            "aliases": ["CN"]
+        },
+        {
+            "name": "Machine Learning",
+            "aliases": ["ML"]
+        },
+        {
+            "name": "Artificial Intelligence",
+            "aliases": ["AI"]
+        }
+    ],
+    "data_science": [
+        {
+            "name": "Pandas",
+            "aliases": []
+        },
+        {
+            "name": "NumPy",
+            "aliases": ["Numerical Python"]
+        },
+        {
+            "name": "Matplotlib",
+            "aliases": []
+        }
+    ]
+}
